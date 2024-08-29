@@ -5,9 +5,9 @@ function NavBar(){
 
 return (
     <>
-        <div className="flex">
+        <div className="flex bg-waikawa-gray-900">
             <div className="p-12 m-0 w-1/2 pl-32">
-                <ul className="list-none flex flex-row gap-4 font-bold text-xl">
+                <ul className="list-none flex flex-row gap-4 font-bold text-xl text-waikawa-gray-50">
                     <li className="hover:underline cursor-pointer">Início</li>
                     <li className="hover:underline cursor-pointer">Serviços</li>
                     <li className="hover:underline cursor-pointer">Portfólio</li>
